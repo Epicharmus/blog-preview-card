@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://https://github.com/Epicharmus/blog-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://https://github.com/Epicharmus/blog-preview-card](https://https://github.com/Epicharmus/blog-preview-card)
+- Live Site URL: [https://epicharmus.github.io/blog-preview-card/](https://epicharmus.github.io/blog-preview-card/)
 
 ## My process
 
